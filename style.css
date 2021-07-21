@@ -1,0 +1,22 @@
+/* Google Fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+body {
+  font-family: "Fredoka One", cursive;
+}
+.top-banner-bg h1 {
+  font-size: 2.5em;
+}
+
+.hamba-container {
+  margin-top: 100px;
+}
+
+/* .hamba-img {
+  width: 400px;
+  height: 400px;
+} */
+
+.top-banner-bg {
+  margin-bottom: 150px;
+}
